@@ -2,7 +2,6 @@
 *.*.ini
 *.hex
 *.asm
-*.m[cbp]ppi
 *.cfg
 *.cp
 *.emcl
